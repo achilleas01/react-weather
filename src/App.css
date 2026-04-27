@@ -83,3 +83,30 @@
 .error {
   color: #b42318;
 }
+
+.muted {
+  color: #4d6274;
+}
+
+.filter-label {
+  font-weight: 600;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.tag {
+  font-size: 0.8rem;
+  background: #e8f1f8;
+  color: #1e4f76;
+  padding: 0.15rem 0.45rem;
+  border-radius: 999px;
+}
+
+.post-nav {
+  display: grid;
+  gap: 0.35rem;
+}
