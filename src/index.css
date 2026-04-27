@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f4f8fb;
+  color: #13324a;
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+a {
+  color: #1f4f77;
+}
